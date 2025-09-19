@@ -23,7 +23,7 @@ Color palette with some little changes based on [Oceanic Next](https://github.co
 | orange     | [#f99157](http://www.colorhexa.com/f99157) | <img src="http://www.colorhexa.com/f99157.png" height="16" width="48"> |
 | green      | [#99c794](http://www.colorhexa.com/99c794) | <img src="http://www.colorhexa.com/99c794.png" height="16" width="48"> |
 | yellow     | [#fac863](http://www.colorhexa.com/fac863) | <img src="http://www.colorhexa.com/fac863.png" height="16" width="48"> |
-| blue       | [#6699cc](http://www.colorhexa.com/6699cc) | <img src="http://www.colorhexa.com/6699cc.png" height="16" width="48"> |
+| blue       | [#4785c2](http://www.colorhexa.com/4785c2) | <img src="http://www.colorhexa.com/4785c2.png" height="16" width="48"> |
 | blue light | [#86bbd8](http://www.colorhexa.com/86bbd8) | <img src="http://www.colorhexa.com/86bbd8.png" height="16" width="48"> |
 | magenta    | [#c594c5](http://www.colorhexa.com/c594c5) | <img src="http://www.colorhexa.com/c594c5.png" height="16" width="48"> |
 | cyan       | [#62b3b2](http://www.colorhexa.com/62b3b2) | <img src="http://www.colorhexa.com/62b3b2.png" height="16" width="48"> |
