@@ -6,10 +6,10 @@ Color palette with some little changes based on [Oceanic Next](https://github.co
 
 | Name         | Code    | Color |
 | -------------|---------| ------|
-| black        | [#1b2b34](http://www.colorhexa.com/000000) | <img src="http://www.colorhexa.com/000000.png" height="16" width="48"> |
-| black light  | [#343d46](http://www.colorhexa.com/1e2730) | <img src="http://www.colorhexa.com/1e2730.png" height="16" width="48"> |
-| gray dark    | [#4f5b66](http://www.colorhexa.com/3c4a55) | <img src="http://www.colorhexa.com/3c4a55.png" height="16" width="48"> |
-| gray         | [#65737e](http://www.colorhexa.com/58666f) | <img src="http://www.colorhexa.com/58666f.png" height="16" width="48"> |
+| black        | [#000000](http://www.colorhexa.com/000000) | <img src="http://www.colorhexa.com/000000.png" height="16" width="48"> |
+| black light  | [#1e2730](http://www.colorhexa.com/1e2730) | <img src="http://www.colorhexa.com/1e2730.png" height="16" width="48"> |
+| gray dark    | [#3c4a55](http://www.colorhexa.com/3c4a55) | <img src="http://www.colorhexa.com/3c4a55.png" height="16" width="48"> |
+| gray         | [#58666f](http://www.colorhexa.com/58666f) | <img src="http://www.colorhexa.com/58666f.png" height="16" width="48"> |
 | gray light   | [#a7adba](http://www.colorhexa.com/a7adba) | <img src="http://www.colorhexa.com/a7adba.png" height="16" width="48"> |
 | white        | [#c0c5ce](http://www.colorhexa.com/c0c5ce) | <img src="http://www.colorhexa.com/c0c5ce.png" height="16" width="48"> |
 | silver       | [#cdd3de](http://www.colorhexa.com/cdd3de) | <img src="http://www.colorhexa.com/cdd3de.png" height="16" width="48"> |
