@@ -7,13 +7,13 @@ Color palette with some little changes based on [Oceanic Next](https://github.co
 | Name         | Code    | Color |
 | -------------|---------| ------|
 | black        | [#000000](http://www.colorhexa.com/000000) | <img src="http://www.colorhexa.com/000000.png" height="16" width="48"> |
-| black light  | [#121212](http://www.colorhexa.com/121212) | <img src="http://www.colorhexa.com/121212.png" height="16" width="48"> |
-| gray dark    | [#171717](http://www.colorhexa.com/171717) | <img src="http://www.colorhexa.com/171717.png" height="16" width="48"> |
-| gray         | [#2f2f2f](http://www.colorhexa.com/2f2f2f) | <img src="http://www.colorhexa.com/2f2f2f.png" height="16" width="48"> |
-| gray light   | [#3d3d3d](http://www.colorhexa.com/3d3d3d) | <img src="http://www.colorhexa.com/3d3d3d.png" height="16" width="48"> |
-| silver       | [#353535](http://www.colorhexa.com/353535) | <img src="http://www.colorhexa.com/353535.png" height="16" width="48"> |
-| silver light | [#5a5a5a](http://www.colorhexa.com/5a5a5a) | <img src="http://www.colorhexa.com/5a5a5a.png" height="16" width="48"> |
-| white        | [#808080](http://www.colorhexa.com/808080) | <img src="http://www.colorhexa.com/808080.png" height="16" width="48"> |
+| black light  | [#1b1b1b](http://www.colorhexa.com/1b1b1b) | <img src="http://www.colorhexa.com/1b1b1b.png" height="16" width="48"> |
+| gray dark    | [#373737](http://www.colorhexa.com/373737) | <img src="http://www.colorhexa.com/373737.png" height="16" width="48"> |
+| gray         | [#525252](http://www.colorhexa.com/525252) | <img src="http://www.colorhexa.com/525252.png" height="16" width="48"> |
+| gray light   | [#6e6e6e](http://www.colorhexa.com/6e6e6e) | <img src="http://www.colorhexa.com/6e6e6e.png" height="16" width="48"> |
+| silver       | [#898989](http://www.colorhexa.com/898989) | <img src="http://www.colorhexa.com/898989.png" height="16" width="48"> |
+| silver light | [#a5a5a5](http://www.colorhexa.com/a5a5a5) | <img src="http://www.colorhexa.com/a5a5a5.png" height="16" width="48"> |
+| white        | [#c0c0c0](http://www.colorhexa.com/c0c0c0) | <img src="http://www.colorhexa.com/c0c0c0.png" height="16" width="48"> |
 
 ### Color
 
